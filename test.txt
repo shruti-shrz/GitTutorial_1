@@ -1,6 +1,4 @@
 "This is a new file in my new repo"
 
-"change from CS18B041"
-
 
 "The change by cs18b043"
